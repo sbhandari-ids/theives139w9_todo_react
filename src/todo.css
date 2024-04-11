@@ -1,0 +1,9 @@
+.todo-container {
+    display: flex;
+    border : 2px, rgb(36, 2, 2);
+  }
+  
+  .todo-box {
+    background-color: rgb(26, 139, 11);
+    border : 2px, rgb(36, 2, 2);
+  }
